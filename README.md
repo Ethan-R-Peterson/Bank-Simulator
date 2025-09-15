@@ -2,7 +2,7 @@
 
 Financial Transaction Engine (C++)
 
-This project is a C++ financial transaction engine that simulates how a bank manages accounts, payments, and fees over time. It models realistic banking constraints such as secure user sessions, prioritized transaction scheduling, and dynamic fee systems. The engine is designed for efficiency, security, and scalability, capable of processing thousands of events while supporting advanced queries and reporting.
+This project is a C++ financial transaction engine that simulates how a bank manages accounts, payments, and fees over time. It models realistic banking constraints such as secure user sessions, prioritized transaction scheduling, and dynamic fee systems. 
 
 Features
 
